@@ -1,0 +1,52 @@
+/* nav style */
+section{
+   background-color: bisque;
+}
+.one{
+   font-style: initial;
+
+}
+
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin:0px 100px;
+}
+nav ul{
+   display: flex;
+
+}
+nav ul li{
+   list-style: none;
+   margin: 20px;
+}
+nav li a{
+   text-decoration: none;
+   font-size: 20px;
+   color: black;
+}
+
+div h1{
+   font-style: initial;
+text-align: center;
+   
+}
+div h4{
+text-align: center;
+}
+.btn-cls{
+   background-color: orange;
+   color: azure;
+   border: 10px;
+   border-radius: 5px;
+   margin: 10px;
+   padding: 10px;
+}
+.img-cls{
+display: block;
+margin: 0 auto;
+width: 70%;
+border: 5px solid bisque;
+margin-bottom: 5px;
+}
